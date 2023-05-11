@@ -13,3 +13,4 @@ for i in range(1, tours+1):
     print(f"Tour : {i} - Diametre [mm]: {d} - Longueur enroulée [mm] : {round(l)}")
 
 print(f"Calcul de la longueur L par formule :\nLongueur [mm] pour 10 tours: {l}")
+
