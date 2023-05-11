@@ -1,5 +1,5 @@
-placement = int(input("Entrez le placement de départ : "))
-versementmen= int(input("Entrez le montant du versement mensuel : "))
+placement = float(input("Entrez le placement de départ : "))
+versementmen= float(input("Entrez le montant du versement mensuel : "))
 taux = float(input("Entrez le taux annuel en % : "))
 annees = int(input("Entrez le nombre d'années : "))
 banque = placement
